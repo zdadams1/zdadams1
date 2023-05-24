@@ -1,10 +1,10 @@
-<h1>I'm <a href="https://www.linkedin.com/in/zach-adams-4a8ba9277">Zach</a>.. An IT Specialist, Full-Stack Multi-Platform Dev, and Algorithmic Trader.</h1>
+<h1>I'm <a href="https://www.linkedin.com/in/zach-adams-4a8ba9277">Zach</a>, An IT Specialist, Full-Stack Multi-Platform Dev, and Algorithmic Trader.</h1>
 
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/zdadams1/osticket-install)
-  - [osTicket: Post-Installation Configuration](https://github.com/zdadams1/post-install-config))
+  - [osTicket: Post-Installation Configuration](https://github.com/zdadams1/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/zdadams1/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/zdadams1/configure-ad)
