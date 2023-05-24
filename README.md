@@ -1,4 +1,4 @@
-<h1>I'm <a href="https://www.linkedin.com/in/zach-adams-4a8ba9277">Zach</a>, An IT Specialist, Full-Stack Multi-Platform Dev, and Algorithmic Trader.</h1>
+<h1>I'm <a href="https://www.linkedin.com/in/zach-adams-4a8ba9277">Zach</a>, An IT Specialist and Full-Stack Multi-Platform Dev.</h1>
 
 <h2>Information Technology Projects:</h2>
 
